@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mohit_linux/Experiment-Tracking-with-MLflow/mlruns/122848119841202726/90295f3bb1b845bd8895b258f8897aff/artifacts
+end_time: 1727350398428
+entry_point_name: ''
+experiment_id: '122848119841202726'
+lifecycle_stage: active
+run_id: 90295f3bb1b845bd8895b258f8897aff
+run_name: Random_Forest
+run_uuid: 90295f3bb1b845bd8895b258f8897aff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727350396398
+status: 3
+tags: []
+user_id: mohit_linux
